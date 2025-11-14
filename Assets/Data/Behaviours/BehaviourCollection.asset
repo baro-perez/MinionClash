@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 44620b6784b05ee409aa63ef6d4944c5, type: 3}
+  m_Name: BehaviourCollection
+  m_EditorClassIdentifier: 
+  healthBehaviour: {fileID: 11400000, guid: 868eec9f9eca70e4a9fd52e4e7c4a470, type: 2}
+  pushBehaviourConfig: {fileID: 11400000, guid: 8c8ed036313def14fa773703233d480d, type: 2}
+  targetBehaviour: {fileID: 11400000, guid: a4962754374fdcd40afc2b0ef482f1d1, type: 2}
+  moveBehaviour: {fileID: 11400000, guid: a7f05615aa1e1ae47a4aaeb5a2216da4, type: 2}
+  attackBehaviour: {fileID: 11400000, guid: 7f9dcd4cad791424aad49ecb9a5b0739, type: 2}
+  beforeBehaviours: []
+  afterBehaviours: []
